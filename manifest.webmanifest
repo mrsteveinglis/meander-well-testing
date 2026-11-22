@@ -1,0 +1,22 @@
+{
+  "name": "Meander River Well Test Field Log",
+  "short_name": "Meander Wells",
+  "id": "./Meander_Well_Test_Mobile_Form_v6.html",
+  "start_url": "./Meander_Well_Test_Mobile_Form_v6.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf2f5",
+  "theme_color": "#113d56",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
